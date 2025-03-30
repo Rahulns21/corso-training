@@ -11,7 +11,6 @@ Bootstrap website for training courses, workshops, seminars, etc. It has a mixed
 - Sticky navbar with style changes on scroll
 - Carousel image slider
 - Register & email subscribe forms
-- Font Awesome icons
 
 ## Usage
 
