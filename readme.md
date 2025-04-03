@@ -6,7 +6,7 @@ Bootstrap website for training courses, workshops, seminars, etc. It has a mixed
 
 ## Features
 
-- Modern layout with custom colors/styles/bg
+- Modern layout with custom colors/styles/background
 - Responsive design
 - Sticky navbar with style changes on scroll
 - Carousel image slider
